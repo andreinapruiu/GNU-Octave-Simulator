@@ -1,0 +1,15 @@
+==9611== Memcheck, a memory error detector
+==9611== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9611== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==9611== Command: /home/student/Desktop/check_my_octave/my_octave
+==9611== Parent PID: 9610
+==9611== 
+==9611== 
+==9611== HEAP SUMMARY:
+==9611==     in use at exit: 0 bytes in 0 blocks
+==9611==   total heap usage: 1,054 allocs, 1,054 frees, 894,807 bytes allocated
+==9611== 
+==9611== All heap blocks were freed -- no leaks are possible
+==9611== 
+==9611== For lists of detected and suppressed errors, rerun with: -s
+==9611== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
