@@ -14,7 +14,7 @@
 3. [Example of running code](#example)
 4. [How are the variables used in the program?](#how-are-the-variables-used-in-the-program)
 3. [How to run the code?](#how-to-run-the-code)
-4. [How to run the checker?]()
+4. [How to run the checker?](#how-to-run-the-checker)
 5. [Other sources](#sources-for-strassenaka-copyright)
 
 # Short description
