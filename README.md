@@ -304,8 +304,11 @@ student@pc:~$ cs/cs.sh <file>
 # Sources for Strassen(aka Copyright):
 
 https://medium.com/swlh/strassens-matrix-multiplication-algorithm-936f42c2b344
+
 https://tinyurl.com/yc4w452n
+
 https://www.youtube.com/watch?v=0oJyNmEbS4w
+
 https://www.geeksforgeeks.org/easy-way-remember-strassens-matrix-equation/
 
 ---
