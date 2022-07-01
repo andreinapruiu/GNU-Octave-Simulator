@@ -1,15 +1,15 @@
-==9643== Memcheck, a memory error detector
-==9643== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
-==9643== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
-==9643== Command: /home/student/Desktop/check_my_octave/my_octave
-==9643== Parent PID: 9642
-==9643== 
-==9643== 
-==9643== HEAP SUMMARY:
-==9643==     in use at exit: 0 bytes in 0 blocks
-==9643==   total heap usage: 1,354 allocs, 1,354 frees, 865,839 bytes allocated
-==9643== 
-==9643== All heap blocks were freed -- no leaks are possible
-==9643== 
-==9643== For lists of detected and suppressed errors, rerun with: -s
-==9643== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==12251== Memcheck, a memory error detector
+==12251== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==12251== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==12251== Command: /home/student/Desktop/check_my_octave/my_octave
+==12251== Parent PID: 12250
+==12251== 
+==12251== 
+==12251== HEAP SUMMARY:
+==12251==     in use at exit: 0 bytes in 0 blocks
+==12251==   total heap usage: 1,354 allocs, 1,354 frees, 865,839 bytes allocated
+==12251== 
+==12251== All heap blocks were freed -- no leaks are possible
+==12251== 
+==12251== For lists of detected and suppressed errors, rerun with: -s
+==12251== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
